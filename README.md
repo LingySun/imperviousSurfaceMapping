@@ -9,12 +9,12 @@
 ## Mapping results
 * Querétaro
 <p align="center">
-  <img src="https://raw.githubusercontent.com/LingySun/imperviousSurfaceMapping/master/Impervious_Surface_Dynamic_Changes/Queretaro.gif" width="800px" alt="Dynamic changes of impervious surfaces in Querétaro"/>
+  <img src="https://raw.githubusercontent.com/LingySun/imperviousSurfaceMapping/master/Impervious_Surface_Dynamic_Changes/Queretaro.gif" width="600px" alt="Dynamic changes of impervious surfaces in Querétaro"/>
 </p>
 
 * Katowice
 <p align="center">
-  <img src="https://raw.githubusercontent.com/LingySun/imperviousSurfaceMapping/master/Impervious_Surface_Dynamic_Changes/Katowice.gif" width="700px" alt="Dynamic changes of impervious surfaces in Katowice"/>
+  <img src="https://raw.githubusercontent.com/LingySun/imperviousSurfaceMapping/master/Impervious_Surface_Dynamic_Changes/Katowice.gif" width="600px" alt="Dynamic changes of impervious surfaces in Katowice"/>
 </p>
 
 * Novosibirsk
@@ -24,26 +24,26 @@
 
 * Wuhan
 <p align="center">
-  <img src="https://raw.githubusercontent.com/LingySun/imperviousSurfaceMapping/master/Impervious_Surface_Dynamic_Changes/Wuhan.gif" width="500px" alt="Dynamic changes of impervious surfaces in Wuhan"/>
+  <img src="https://raw.githubusercontent.com/LingySun/imperviousSurfaceMapping/master/Impervious_Surface_Dynamic_Changes/Wuhan.gif" width="600px" alt="Dynamic changes of impervious surfaces in Wuhan"/>
 </p>
 
 * Casey
 <p align="center">
-  <img src="https://raw.githubusercontent.com/LingySun/imperviousSurfaceMapping/master/Impervious_Surface_Dynamic_Changes/Casey.gif" width="500px" alt="Dynamic changes of impervious surfaces in Casey"/>
+  <img src="https://raw.githubusercontent.com/LingySun/imperviousSurfaceMapping/master/Impervious_Surface_Dynamic_Changes/Casey.gif" width="600px" alt="Dynamic changes of impervious surfaces in Casey"/>
 </p>
 
 * New Delhi
 <p align="center">
-  <img src="https://raw.githubusercontent.com/LingySun/imperviousSurfaceMapping/master/Impervious_Surface_Dynamic_Changes/Newdelhi.gif" width="500px" alt="Dynamic changes of impervious surfaces in New Delhi"/>
+  <img src="https://raw.githubusercontent.com/LingySun/imperviousSurfaceMapping/master/Impervious_Surface_Dynamic_Changes/Newdelhi.gif" width="600px" alt="Dynamic changes of impervious surfaces in New Delhi"/>
 </p>
 
 * Nairobi
 <p align="center">
-  <img src="https://raw.githubusercontent.com/LingySun/imperviousSurfaceMapping/master/Impervious_Surface_Dynamic_Changes/Nairobi.gif" width="500px" alt="Dynamic changes of impervious surfaces in Nairobi"/>
+  <img src="https://raw.githubusercontent.com/LingySun/imperviousSurfaceMapping/master/Impervious_Surface_Dynamic_Changes/Nairobi.gif" width="600px" alt="Dynamic changes of impervious surfaces in Nairobi"/>
 </p>
 
 * Rosario
 <p align="center">
-  <img src="https://raw.githubusercontent.com/LingySun/imperviousSurfaceMapping/master/Impervious_Surface_Dynamic_Changes/Rosario.gif" width="500px" alt="Dynamic changes of impervious surfaces in Rosario"/>
+  <img src="https://raw.githubusercontent.com/LingySun/imperviousSurfaceMapping/master/Impervious_Surface_Dynamic_Changes/Rosario.gif" width="600px" alt="Dynamic changes of impervious surfaces in Rosario"/>
 </p>
 
