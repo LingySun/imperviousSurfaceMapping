@@ -7,5 +7,6 @@ Run postProcessing code in GEE, and obtain final time series impervious surfaces
 
 
 ![image](https://raw.githubusercontent.com/LingySun/imperviousSurfaceMapping/master/Impervious_Surface_Dynamic_Changes/Casey.gif)
-
-<img src="https://raw.githubusercontent.com/LingySun/imperviousSurfaceMapping/master/Impervious_Surface_Dynamic_Changes/Casey.gif" width="100px">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/LingySun/imperviousSurfaceMapping/master/Impervious_Surface_Dynamic_Changes/Casey.gif" width="500px" alt="Sublime's custom image"/>
+</p>
