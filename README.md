@@ -9,17 +9,17 @@
 ## Mapping results
 * Querétaro
 <p align="center">
-  <img src="https://raw.githubusercontent.com/LingySun/imperviousSurfaceMapping/master/Impervious_Surface_Dynamic_Changes/Queretaro.gif" width="500px" alt="Dynamic changes of impervious surfaces in Querétaro"/>
+  <img src="https://raw.githubusercontent.com/LingySun/imperviousSurfaceMapping/master/Impervious_Surface_Dynamic_Changes/Queretaro.gif" width="800px" alt="Dynamic changes of impervious surfaces in Querétaro"/>
 </p>
 
 * Katowice
 <p align="center">
-  <img src="https://raw.githubusercontent.com/LingySun/imperviousSurfaceMapping/master/Impervious_Surface_Dynamic_Changes/Katowice.gif" width="500px" alt="Dynamic changes of impervious surfaces in Katowice"/>
+  <img src="https://raw.githubusercontent.com/LingySun/imperviousSurfaceMapping/master/Impervious_Surface_Dynamic_Changes/Katowice.gif" width="700px" alt="Dynamic changes of impervious surfaces in Katowice"/>
 </p>
 
 * Novosibirsk
 <p align="center">
-  <img src="https://raw.githubusercontent.com/LingySun/imperviousSurfaceMapping/master/Impervious_Surface_Dynamic_Changes/Novosibirsk.gif" width="500px" alt="Dynamic changes of impervious surfaces in Novosibirsk"/>
+  <img src="https://raw.githubusercontent.com/LingySun/imperviousSurfaceMapping/master/Impervious_Surface_Dynamic_Changes/Novosibirsk.gif" width="600px" alt="Dynamic changes of impervious surfaces in Novosibirsk"/>
 </p>
 
 * Wuhan
