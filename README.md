@@ -12,8 +12,8 @@
   <img src="https://raw.githubusercontent.com/LingySun/imperviousSurfaceMapping/master/Impervious_Surface_Dynamic_Changes/Queretaro.gif" width="500px" alt="Dynamic changes of impervious surfaces in Querétaro"/>
 </p>
 
-* Casey
-<p align="Katowice">
+* Katowice
+<p align="center">
   <img src="https://raw.githubusercontent.com/LingySun/imperviousSurfaceMapping/master/Impervious_Surface_Dynamic_Changes/Katowice.gif" width="500px" alt="Dynamic changes of impervious surfaces in Katowice"/>
 </p>
 
