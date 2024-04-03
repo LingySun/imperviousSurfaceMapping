@@ -6,6 +6,5 @@ Run imperviousSurfacesMappingCode code in GEE, and obtain time series impervious
 Run postProcessing code in GEE, and obtain final time series impervious surfaces mapping results
 
 
-[https://github.com/](https://raw.githubusercontent.com/)LingySun/imperviousSurfaceMapping/master/Impervious_Surface_Dynamic_Changes/Casey.gif
-https://raw.githubusercontent.com/LingySun/imperviousSurfaceMapping/master/Impervious_Surface_Dynamic_Changes/Casey.gif
+![image](https://raw.githubusercontent.com/LingySun/imperviousSurfaceMapping/master/Impervious_Surface_Dynamic_Changes/Casey.gif)
 
