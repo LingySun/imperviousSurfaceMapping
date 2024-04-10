@@ -39,7 +39,7 @@ var classification = {
 
 //------------------------- Define Change detection city regions and time period---------------------------------
 var studyRegion = ee.FeatureCollection('users/sunly3456/Boundary/wuhan')
-var startTime = '2012-01-01'
+var startTime = '2014-01-01'
 var endTime = '2023-07-30'
 var cityName = 'Wuhan'
 
