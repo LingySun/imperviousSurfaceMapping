@@ -34,7 +34,7 @@
 
 * New Delhi
 <p align="center">
-  <img src="https://raw.githubusercontent.com/LingySun/imperviousSurfaceMapping/master/Impervious_Surface_Dynamic_Changes/Newdelhi.gif" width="500px" alt="Dynamic changes of impervious surfaces in New Delhi"/>
+  <img src="https://raw.githubusercontent.com/LingySun/imperviousSurfaceMapping/master/Impervious_Surface_Dynamic_Changes/Newdelhi.gif" width="400px" alt="Dynamic changes of impervious surfaces in New Delhi"/>
 </p>
 
 * Nairobi
@@ -44,6 +44,6 @@
 
 * Rosario
 <p align="center">
-  <img src="https://raw.githubusercontent.com/LingySun/imperviousSurfaceMapping/master/Impervious_Surface_Dynamic_Changes/Rosario.gif" width="500px" alt="Dynamic changes of impervious surfaces in Rosario"/>
+  <img src="https://raw.githubusercontent.com/LingySun/imperviousSurfaceMapping/master/Impervious_Surface_Dynamic_Changes/Rosario.gif" width="400px" alt="Dynamic changes of impervious surfaces in Rosario"/>
 </p>
 
