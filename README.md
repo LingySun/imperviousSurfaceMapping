@@ -44,6 +44,6 @@
 
 * Rosario
 <p align="center">
-  <img src="https://raw.githubusercontent.com/LingySun/imperviousSurfaceMapping/master/Impervious_Surface_Dynamic_Changes/Rosario.gif" width="400px" alt="Dynamic changes of impervious surfaces in Rosario"/>
+  <img src="https://raw.githubusercontent.com/LingySun/imperviousSurfaceMapping/master/Impervious_Surface_Dynamic_Changes/Rosario.gif" width="450px" alt="Dynamic changes of impervious surfaces in Rosario"/>
 </p>
 
