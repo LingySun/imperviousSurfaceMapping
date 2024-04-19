@@ -19,17 +19,17 @@
 
 * Novosibirsk
 <p align="center">
-  <img src="https://raw.githubusercontent.com/LingySun/imperviousSurfaceMapping/master/Impervious_Surface_Dynamic_Changes/Novosibirsk.gif" width="500px" alt="Dynamic changes of impervious surfaces in Novosibirsk"/>
+  <img src="https://raw.githubusercontent.com/LingySun/imperviousSurfaceMapping/master/Impervious_Surface_Dynamic_Changes/Novosibirsk.gif" width="450px" alt="Dynamic changes of impervious surfaces in Novosibirsk"/>
 </p>
 
 * Wuhan
 <p align="center">
-  <img src="https://raw.githubusercontent.com/LingySun/imperviousSurfaceMapping/master/Impervious_Surface_Dynamic_Changes/Wuhan.gif" width="500px" alt="Dynamic changes of impervious surfaces in Wuhan"/>
+  <img src="https://raw.githubusercontent.com/LingySun/imperviousSurfaceMapping/master/Impervious_Surface_Dynamic_Changes/Wuhan.gif" width="400px" alt="Dynamic changes of impervious surfaces in Wuhan"/>
 </p>
 
 * Casey
 <p align="center">
-  <img src="https://raw.githubusercontent.com/LingySun/imperviousSurfaceMapping/master/Impervious_Surface_Dynamic_Changes/Casey.gif" width="500px" alt="Dynamic changes of impervious surfaces in Casey"/>
+  <img src="https://raw.githubusercontent.com/LingySun/imperviousSurfaceMapping/master/Impervious_Surface_Dynamic_Changes/Casey.gif" width="300px" alt="Dynamic changes of impervious surfaces in Casey"/>
 </p>
 
 * New Delhi
