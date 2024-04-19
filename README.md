@@ -9,7 +9,7 @@
 ## Mapping results
 * Querétaro
 <p align="center">
-  <img src="https://raw.githubusercontent.com/LingySun/imperviousSurfaceMapping/master/Impervious_Surface_Dynamic_Changes/Queretaro.gif" width="500px" alt="Dynamic changes of impervious surfaces in Querétaro"/>
+  <img src="https://raw.githubusercontent.com/LingySun/imperviousSurfaceMapping/master/Impervious_Surface_Dynamic_Changes/Queretaro.gif" width="300px" alt="Dynamic changes of impervious surfaces in Querétaro"/>
 </p>
 
 * Katowice
