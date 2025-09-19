@@ -1,5 +1,5 @@
 
-# [The codes](https://github.com/LingySun/imperviousSurfaceMapping/tree/main/codes)
+# [The code will be uploaded after the paper is accepted](https://github.com/LingySun/imperviousSurfaceMapping/tree/main/codes)
 ## Usage
 * Step 1: Run CCDC code in Google Earth Engine (GEE), and obtain the change detection results
 * Step 2: Run imperviousSurfacesMappingCode code in GEE, and obtain time series impervious surfaces mapping results
